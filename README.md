@@ -1,4 +1,4 @@
-# NeuroNet-Eng
+# NeuroNet-Engineering
 
 Лабораторные работы по курсу
 "Нейросетевая инженерия"
