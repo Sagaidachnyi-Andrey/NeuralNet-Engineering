@@ -17,4 +17,4 @@
 ### [Предсказание временных рядов с помощью рекуррентной нейросети (библиотека NeuroLab)](https://github.com/Sagaidachnyi-Andrey/NeuralNet-Engineering/blob/main/5_%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0.md)
 ## :maple_leaf: Лабораторная работа №6.
 ### [Создание собственной нейронной сети для распознавания рукописных цифр]()
-## Ссылка для скачивания данных рукописных цифр MNIST [https://github.com/phoebetronic/mnist/tree/main]
+### Ссылка для скачивания данных рукописных цифр MNIST[https://github.com/phoebetronic/mnist/tree/main]
